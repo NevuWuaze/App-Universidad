@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3cec592a.js",
+    "static/media/diploma.png": "/static/media/diploma.a8fa675883e926052622.png",
+    "static/media/aula-virtual.svg": "/static/media/aula-virtual.55a773f6ee1a58ceecb77da21e026507.svg",
+    "index.html": "/index.html",
+    "static/media/icon-checklist.svg": "/static/media/icon-checklist.53bc8c99db9b16d26d7f17939bb9a8e2.svg",
+    "static/media/horario.svg": "/static/media/horario.9a646f34a3c80114d5839a4ac8025bf4.svg",
+    "static/media/mi-ulima.svg": "/static/media/mi-ulima.7e192c8c6e6506afb10254e49b4a4d69.svg",
+    "main.3cec592a.js.map": "/static/js/main.3cec592a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3cec592a.js"
+  ]
+}

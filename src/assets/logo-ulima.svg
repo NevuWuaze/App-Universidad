@@ -1,0 +1,5 @@
+<!-- Logo oficial Universidad de Lima SVG simplificado -->
+<svg width="40" height="40" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+  <circle cx="256" cy="256" r="256" fill="#f57c00"/>
+  <path d="M256 128L320 256L256 384L192 256Z" fill="#fff"/>
+</svg>
